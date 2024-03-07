@@ -19,5 +19,4 @@ To evaluate/train RAFT, you will need to download the required datasets.
 
 ## Acknowledgement
 Parts of code are adapted from the following repositories. We thank the authors for their great contribution to the community:
-
-RAFT
+- [RAFT](https://github.com/princeton-vl/RAFT)
